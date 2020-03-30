@@ -1,0 +1,124 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 30, 2020, 9:48:43 PM
+    Author     : PAVAN
+*/
+ body{
+                margin: 0;
+                background-color:bisque;
+            }
+            #header{
+                background-color:cornflowerblue;
+                padding-bottom: 10px;
+                padding-top: 10px;
+               text-align: center;
+               color: white;
+               font-size: 20px;
+               width: 100%;
+            }
+            .nav-items{
+                padding-left: 10px;
+                padding-right: 10px;
+                color: white;
+            }
+            .nav-links{
+                color: white;
+            }
+            #main-img{
+                width: 100%;
+                height: 300px;
+            }
+            #main-section{
+                width: 100%;
+            }
+            #table{
+                margin: 20px;
+                width: 80%;
+                margin-left: auto;
+                margin-right: auto;
+                border: 10px;
+            }
+            caption{
+                font-size: 20px;
+                font-family:cursive;
+                text-decoration:underline solid;
+            }
+            td{
+                padding: 5px;
+                width:30%;
+                height: 200px;
+                cursor: pointer;
+            }
+            .table-image{
+                width: 100%;
+                height: 200px;
+            }
+            .table-img{
+                margin: 0;
+                height: 200px;
+            }
+            .table-text{
+                text-align: center;
+                background-color: white;
+                margin: 0;
+                padding: 5px;
+                font-size: 20px;
+            }
+            footer{
+                text-align: center;
+                padding: 10px;
+                background-color:burlywood;
+                height: 100px;
+                font-size: 25px;
+            }
+                
+            #head{
+                text-align: center;
+                font-family:sans-serif;
+                font-size: 25px;
+            }
+            #aboutus{
+                line-height: 1.5;
+                padding-top: 10px;
+                padding-bottom: 20px;
+                padding-left: 40px;
+                padding-right: 40px;
+            }
+            form{
+                background-color: white;
+                height: 350px;
+                width: 50%;
+                margin-left: auto;
+                margin-right: auto;
+                text-align: center;
+                margin-bottom: 80px;
+                margin-top: 60px;
+            }
+            .text-fields{
+                padding-left:  10px;
+                padding-right: 10px;
+            }
+            .text-field{
+                width: 100%;
+                margin-top: 30px;
+                border: none;
+                border-bottom: 1px solid;
+                font-size: 25px;
+                outline: none;
+            }
+            #button{
+            padding-left: 15px;
+           padding-right: 15px;
+           padding-top: 10px;
+           padding-bottom: 10px;
+           border:0;
+           background-color:blue;
+           color:white;
+           font-size: 20px;
+           margin: 50px;
+                cursor: pointer;
+            }
